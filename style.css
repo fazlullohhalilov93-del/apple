@@ -1,0 +1,181 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box; 
+}
+
+.asosiy {
+    width: 100%;
+    background-color: white;
+}
+
+
+.top {
+    padding-bottom: 20px;
+    padding-top: 20px;
+    background-color: aliceblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+a {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+}
+
+
+.mid {
+    height: 600px;
+    background: url(./hero_macbook_air_m5__eb1idggd120y_large_2x.jpg) no-repeat center center / cover;
+    margin-bottom: 10px;
+    padding-top: 50px;
+    text-align: center; }
+
+.mid2 {
+    background: url(./hero_iphone_17__ekga3xh1n5aq_large_2x.jpg) no-repeat center center / cover;
+}
+
+.mid3 {
+    background: url(./hero_iphone_17_pro__dbaaq3mt8u2q_large_2x.jpg) no-repeat center center / cover;
+}
+
+h1 {
+    text-align: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 45px;
+}
+
+.d1 {
+    font-size: 20px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.n1, .m1 {
+    color: aliceblue;
+}
+
+
+button {
+    font-size: 18px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    cursor: pointer;
+}
+
+.btn1 {
+    width: 120px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: rgb(0, 123, 255);
+    color: aliceblue;
+    border: none;
+    display: inline-block; 
+}
+
+.btn2 {
+    width: 80px;
+    height: 40px;
+    border-radius: 50px;
+    background-color: transparent;
+    color: rgb(0, 123, 255);
+    border: 1px solid rgb(0, 123, 255);
+    margin-left: 10px; 
+    display: inline-block;
+}
+
+
+.dv1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 12px; 
+    padding: 0 12px;
+    margin-bottom: 12px;
+}
+
+.mid4 {
+    height: 500px;
+    width: 50%; 
+    background: url(./promo_macbook_pro__c9td9w1mc8ia_large_2x.jpg) no-repeat center center / cover;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.mid5 {
+    background: url(./vini.jpg) no-repeat center center / cover;
+}
+
+.mid6 {
+    background: url(./promo_apple_watch_series_11__gnlwqxe1jlu2_large_2x.jpg) no-repeat center center / cover;
+}
+
+.mid7 {
+    background: url(./promo_ipad_pro__emtduc920o02_large_2x.jpg) no-repeat center center / cover;
+}
+
+.mid8 {
+    background: url(./promo_apple_card__d8xz4kd4evwy_large_2x.jpg) no-repeat center center / cover;
+}
+
+.mid9 {
+    background: url(./promo_iphone_tradein__e4hrjxmgmf0i_large_2x.jpg) no-repeat center center / cover;
+}
+
+.g1, .g2 {
+    color: aliceblue;
+}
+
+
+.btn3 {
+    margin-left: 0px; 
+}
+
+
+
+
+
+
+.q1 { height: 600px; background: url(./1.jpg) no-repeat center center / cover; }
+.q2 { height: 600px; background: url(./2.jpg) no-repeat center center / cover; }
+.q3 { height: 600px; background: url(./3.jpg) no-repeat center center / cover; }
+.q4 { height: 600px; background: url(./4.jpg) no-repeat center center / cover; }
+.q5 { height: 600px; background: url(./5.jpg) no-repeat center center / cover; }
+.q6 { height: 600px; background: url(./6.jpg) no-repeat center center / cover; }
+.q7 { height: 600px; background: url(./3.jpg) no-repeat center center / cover; }
+
+
+
+
+
+
+.w1 { height: 200px;  background: url(./q.jpg) no-repeat center center / cover; }
+.w2 { height: 200px;  background: url(./q2.jpg) no-repeat center center / cover; }
+.w3 { height: 200px;  background: url(./q3.jpg) no-repeat center center / cover; }
+.w4 { height: 200px;  background: url(./q4.jpg) no-repeat center center / cover; }
+.w5 { height: 200px;  background: url(./q5.jpg) no-repeat center center / cover; }
+.w6 { height: 200px;  background: url(./q6.jpg) no-repeat center center / cover; }
+.w7 { height: 200px;  background: url(./q7.jpg) no-repeat center center / cover; }
+.w8 { height: 200px;  background: url(./q8.jpg) no-repeat center center / cover; }
+
+p{
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-size: 10px;
+margin-left: 50px;
+margin-right: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
